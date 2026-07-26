@@ -1,0 +1,10 @@
+.env
+.venv/
+downloads/
+__pycache__/
+*.py[cod]
+chunk_*.wav
+output.wav
+*.mp3
+.streamlit/
+vector_db/
